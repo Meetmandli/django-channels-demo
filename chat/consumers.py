@@ -33,6 +33,7 @@ class ChatConsumer(AsyncWebsocketConsumer):
                 'type': 'chat_message',
                 'message': message
             }
+            
         )
 
     # Receive message from room group
