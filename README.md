@@ -43,7 +43,7 @@ we had rendered the templates in chat/views.py
 
 Add necessary urls in chat/urls.py and include it in mysite/urls.py.
 
-# to saw the output
+# to see the output
 
 python manage.py makemigrations
 
