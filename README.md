@@ -55,7 +55,7 @@ for output to be seen activate you redis server using command redis-server
 
 http://127.0.0.1:8000/chat
 
-it asks for room name , enter that
+it asks for room name , enter that ---"hi"
 
 http://127.0.0.1:8000/chat/hi
 
